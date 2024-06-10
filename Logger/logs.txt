@@ -1,4 +1,4 @@
-[!] 08/06/2024 20:01:30 EXEC ==> from __future__ import division
+[!] 10/06/2024 22:13:44 EXEC ==> from __future__ import division
 from __future__ import print_function
 import urllib.request
 from zipfile import ZipFile
@@ -444,7 +444,7 @@ if __name__ == '__main__':
     # if len(sys.argv)==1:
     #     parser.print_help()
     #     sys.exit(1)
-    args = ["testdomain/пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ:Admin1.@127.0.0.1"]
+    args = ["testdomain/Администратор:Admin1.@127.0.0.1"]
     options = parser.parse_args(args)
 
     # Init the example's logger theme

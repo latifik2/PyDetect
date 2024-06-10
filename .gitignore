@@ -1,0 +1,4 @@
+venv/
+venv/*
+Analyzer/.env
+Logger/__pycache__
